@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText et_0, et_1, et_2, et_3, et_4, et_5, et_6, et_7, et_8, et_9, et_10, et_11, et_12, et_13, et_14, et_15;
     int mf1;
-    int tabanPuan = 200;
+    int tabanPuan = 180;
     TextView tv;
     Button btn;
     int x0,x1,x2,x3,x4,x5,x6,x7,x8,x9,x10,x11,x12,x13,x14,x15;
